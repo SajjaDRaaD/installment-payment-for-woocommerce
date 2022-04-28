@@ -1,0 +1,27 @@
+.installment-alert{
+    font-family: inherit;
+    background: #fff3cd;
+    color: #856404;
+    font-size: inherit;
+    padding: 10px 20px;
+    border-radius:10px;
+    margin:10px 0;
+}
+.installment-alert ul {
+    list-style: none;
+}
+
+#ghesti-info {
+    background: #ededed;
+    line-height: 29px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#ghesti-info p {
+    font-weight: bold;
+}
+
+#pish_pardakht , #tedad_ghest {
+    width:100% !important;
+}
